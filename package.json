@@ -1,0 +1,26 @@
+{
+  "name": "react-social-login",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-stormpath": "^4.0.0",
+    "mongojs": "^2.6.0",
+    "raf": "^3.3.2",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-facebook-login": "^3.6.2",
+    "react-google-login": "^2.11.2",
+    "react-map-gl": "^3.0.4",
+    "react-router-dom": "^4.2.0",
+    "react-scripts": "1.0.11",
+    "react-signup-login-component": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom --setupTestFrameworkScriptFile=raf/polyfill",
+    "eject": "react-scripts eject"
+  }
+}
