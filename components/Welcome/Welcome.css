@@ -1,0 +1,12 @@
+#welcomeText{
+    font-weight: bold;
+    font-size: 50px;
+}
+#text{
+    width:15%;
+}
+
+#root{
+    background-image: url("./bg.jpg");
+    height: 589px;
+}
